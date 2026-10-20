@@ -1,0 +1,6 @@
+{
+  "name": "PeerPoint",
+  "description": "5km neighborhood study partner & hobby group finder with verified preferences and instant community resource alerts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
